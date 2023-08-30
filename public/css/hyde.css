@@ -31,8 +31,15 @@
  * Update the foundational and global aspects of the page.
  */
 
+:root { font-family: 'Inter', Helvetica, Arial, sans-serif; }
 html {
-  font-family: "Inter var", Helvetica, Arial, sans-serif;
+  font-family: 'Inter', Helvetica, Arial, sans-serif;
+}
+@supports (font-variation-settings: normal) {
+ :root { font-family: 'Inter var', Helvetica, Arial, sans-serif; }
+ html {
+   font-family: 'Inter var', Helvetica, Arial, sans-serif;
+ }
 }
 @media (min-width: 48em) {
   html {
