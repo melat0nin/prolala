@@ -11,7 +11,7 @@ relative_permalinks: false
 # Setup
 title:            ProLaLa
 tagline:          'Programming Languages for the Law'
-description:      'Programming Languages for the Law'
+description:      'Workshop on Programming Languages for the Law'
 url:              https://prolala.github.io/
 baseurl:          /prolala/
 
