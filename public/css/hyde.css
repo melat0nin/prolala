@@ -606,7 +606,7 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-.sidebar p {
+.sidebar p.copy {
   font-size: .75rem
 }
 
