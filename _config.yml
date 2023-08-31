@@ -9,15 +9,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          https://melat0nin.github.io/prolala/
+title:            ProLaLa
+tagline:          'Programming Languages for the Law'
+description:      'Programming Languages for the Law'
+url:              https://melat0nin.github.io/prolala
+baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           ''
+  url:            
 
 paginate:         5
 
