@@ -12,8 +12,8 @@ relative_permalinks: false
 title:            ProLaLa
 tagline:          'Programming Languages for the Law'
 description:      'Programming Languages for the Law'
-url:              https://melat0nin.github.io/prolala
-baseurl:          /
+url:              https://prolala.github.io/
+baseurl:          /prolala/
 
 author:
   name:           ''
